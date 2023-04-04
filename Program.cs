@@ -6,5 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
         }
+        public double addition(double premiernombre,double deuxiemenombre) {
+            return premiernombre + deuxiemenombre;
+        }
     }
 }
